@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 
+# By Roy Griffiths.
 # Simple Python program that gets the top 50 best seller books from Amazon:
 def getTop50Books():
 
